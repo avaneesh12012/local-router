@@ -38,7 +38,7 @@
   <br />
 
   <!-- Banner -->
-  <img src="assets/banner.svg" alt="Local Router Banner" width="100%">
+  <img src="assets/banner.png" alt="Local Router Banner" width="100%">
 
 </div>
 
