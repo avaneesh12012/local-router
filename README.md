@@ -1,6 +1,19 @@
 <div align="center">
 
-  <h1>Local Router</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Local%20Router&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkle&desc=Zero-config%20chat%20client%20for%20OpenRouter&descAlignY=58&descSize=18" alt="Local Router banner" width="100%">
+
+  <br />
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Paste+your+API+key+and+start+chatting;No+.env+files%2C+no+build+tools%2C+no+server;100%25+private+%E2%80%A2+100%25+local" alt="Typing SVG">
+
+  <br /><br />
+
+  <!-- In development badge (icon + typing text, aligned side by side) -->
+  <p align="center">
+    <img src="https://api.iconify.design/material-symbols/construction.svg?color=%236366f1" width="16" height="16" align="absmiddle" style="vertical-align:middle;">&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&pause=800&color=A5A6F6&center=false&vCenter=true&width=150&height=18&lines=in+development" alt="Typing SVG" align="absmiddle" style="vertical-align:middle;">
+  </p>
+
+  <br />
 
   <!-- Logo -->
 
@@ -35,6 +48,8 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/license/avaneesh12012/local-router.svg?variant=ghost&size=sm&mode=dark&v=1.0">
       <img alt="License" src="https://www.shieldcn.dev/github/license/avaneesh12012/local-router.svg?variant=ghost&size=sm&mode=light&v=1.0">
     </picture>
+    &nbsp;
+    <img src="https://api.iconify.design/line-md/github-loop.svg?color=%236366f1" width="20" height="20" align="absmiddle" style="vertical-align:middle;">
   </p>
 
   <br />
@@ -45,96 +60,118 @@
 
 </div>
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=6&animation=scaleIn">
 
-## 📖 About
+## <img src="https://api.iconify.design/material-symbols/menu-book-outline.svg?color=%236366f1" width="22" valign="middle"> About
 
 **Local Router** was created so people don't have to deal with editing complex config or `.env` files. Most new users and beginners find managing configuration files frustrating and just want a simple **"paste the key and move on"** experience.
 
 Since **OpenRouter** provides a free API key with the easiest and best setup, it was chosen as the primary provider for our initial release.
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=6&animation=twinkle">
 
-## ⚡ Quick Start
+## <img src="https://api.iconify.design/material-symbols/bolt.svg?color=%236366f1" width="22" valign="middle"> Quick Start
 
-### 🚀 Option 2: Direct Run
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=A5A6F6&center=true&vCenter=true&width=500&lines=%24+open+index.html" alt="Typing SVG">
+
+### <img src="https://api.iconify.design/material-symbols/rocket-launch-outline.svg?color=%236366f1" width="18" valign="middle"> Option 2: Direct Run
 
 Download or save the index.html file.
 Double-click index.html to open it in any web browser (Chrome, Edge, Firefox, Brave, Safari).
 Paste your OpenRouter API Key and start chatting instantly!
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=6&animation=fadeIn">
 
-## ✨ Features
+## <img src="https://api.iconify.design/material-symbols/auto-awesome.svg?color=%236366f1" width="22" valign="middle"> Features
 
-- 🔑 Zero-Configuration Setup  
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=500&size=14&pause=900&color=A5A6F6&center=true&vCenter=true&width=450&lines=Everything+you+need%2C+nothing+you+don%27t" alt="Typing SVG">
+
+- <img src="https://api.iconify.design/material-symbols/key-outline.svg?color=%236366f1" width="18" valign="middle"> **Zero-Configuration Setup**
   Paste your OpenRouter API key once. No .env files, build tools, or server hosting needed.
 
-- 🏷️ Automatic Key Tier Detection  
+- <img src="https://api.iconify.design/material-symbols/label-outline.svg?color=%236366f1" width="18" valign="middle"> **Automatic Key Tier Detection**
   Auto-detects whether your API key is on the Free Tier or Paid Tier and displays it directly beside the model selector.
 
-- 💰 Live API Usage & Cost Counter  
+- <img src="https://api.iconify.design/material-symbols/paid-outline.svg?color=%236366f1" width="18" valign="middle"> **Live API Usage & Cost Counter**
   Tracks total dollars spent and usage statistics on your key in real time right in the sidebar.
 
-- 🧮 LaTeX & Mathematical Formula Support  
+- <img src="https://api.iconify.design/material-symbols/calculate-outline.svg?color=%236366f1" width="18" valign="middle"> **LaTeX & Mathematical Formula Support**
   Renders complex mathematical formulas, equations, and mathematical proofs seamlessly using inline and block LaTeX.
 
-- 💻 Code Blocks with 1-Click Copy  
+- <img src="https://api.iconify.design/material-symbols/code.svg?color=%236366f1" width="18" valign="middle"> **Code Blocks with 1-Click Copy**
   Beautifully highlighted syntax for all programming languages paired with an easy one-click copy button.
 
-- ✍️ Rich Text & Formatting  
+- <img src="https://api.iconify.design/material-symbols/edit-note-outline.svg?color=%236366f1" width="18" valign="middle"> **Rich Text & Formatting**
   Full Markdown parsing supporting real-time bold, italics, tables, lists, blockquotes, and custom formatting.
 
-- 🔍 Instant Chat Search  
+- <img src="https://api.iconify.design/material-symbols/search.svg?color=%236366f1" width="18" valign="middle"> **Instant Chat Search**
   Easily search through all your historical conversations using the sidebar search bar.
 
-- ⚙️ Custom System Prompts  
+- <img src="https://api.iconify.design/material-symbols/settings-outline.svg?color=%236366f1" width="18" valign="middle"> **Custom System Prompts**
   Set system instructions globally or per conversation to customize model behavior.
 
-- 📤 Chat Exporter  
+- <img src="https://api.iconify.design/material-symbols/upload-file-outline.svg?color=%236366f1" width="18" valign="middle"> **Chat Exporter**
   Export your entire chat history with a single click.
 
-- 🔒 100% Private & Local  
+- <img src="https://api.iconify.design/material-symbols/lock-outline.svg?color=%236366f1" width="18" valign="middle"> **100% Private & Local**
   All conversation logs, settings, and API keys are stored exclusively inside your browser's local storage (localStorage). Nothing ever touches an external server.
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=6&animation=blink">
 
-## 🎯 Modes of Operation
+## <img src="https://api.iconify.design/material-symbols/target.svg?color=%236366f1" width="22" valign="middle"> Modes of Operation
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&pause=900&color=A5A6F6&center=false&vCenter=true&width=400&height=20&lines=Works+wherever+you+need+it" alt="Typing SVG">
 
 Local Router is designed to work wherever you need it:
 
-| Mode              |       Status      | Description                                                                                                                                 |
-| :---------------- | :---------------: | :------------------------------------------------------------------------------------------------------------------------------------------ |
-| 📄 **index.html** |    🟢 Available   | A single, lightweight file running locally on your device. All chat histories are saved securely in your browser's localStorage.            |
-| 🌐 Website        |   🟡 Coming Soon  | Sign in or Sign up to access. Chat logs are stored in localStorage, while API keys can either be saved to the cloud or entered per session. |
-| 📱 Apps           | 🔵 In Development | Native desktop app for Windows and mobile app for Android.                                                                                  |
+| Mode | Status | Description |
+| :--- | :---: | :--- |
+| <img src="https://api.iconify.design/material-symbols/description-outline.svg?color=%236366f1" width="18" valign="middle"> **index.html** | <img src="https://api.iconify.design/material-symbols/circle.svg?color=%2322c55e" width="12" valign="middle"> Available | A single, lightweight file running locally on your device. All chat histories are saved securely in your browser's localStorage. |
+| <img src="https://api.iconify.design/material-symbols/language.svg?color=%236366f1" width="18" valign="middle"> Website | <img src="https://api.iconify.design/material-symbols/circle.svg?color=%23eab308" width="12" valign="middle"> Coming Soon | Sign in or Sign up to access. Chat logs are stored in localStorage, while API keys can either be saved to the cloud or entered per session. |
+| <img src="https://api.iconify.design/material-symbols/smartphone-outline.svg?color=%236366f1" width="18" valign="middle"> Apps | <img src="https://api.iconify.design/material-symbols/circle.svg?color=%233b82f6" width="12" valign="middle"> In Development | Native desktop app for Windows and mobile app for Android. |
 
 (Note: macOS and iOS are not currently planned—all features remain accessible on those platforms through index.html or the website).
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=6&animation=twinkle">
 
-## 📦 Git Clone
+## <img src="https://api.iconify.design/material-symbols/inventory-2-outline.svg?color=%236366f1" width="22" valign="middle"> Git Clone
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=14&pause=900&color=A5A6F6&center=false&vCenter=true&width=350&height=20&lines=Grab+the+source%2C+run+it+locally" alt="Typing SVG">
 
 ```bash
 git clone https://github.com/avaneesh12012/local-router.git
 ```
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=6&animation=fadeIn">
 
-## 🤝 Contributing
+## <img src="https://api.iconify.design/material-symbols/handshake-outline.svg?color=%236366f1" width="22" valign="middle"> Contributing
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&pause=900&color=A5A6F6&center=false&vCenter=true&width=350&height=20&lines=PRs+and+issues+are+always+welcome" alt="Typing SVG">
 
 Contributions, bug reports, and feature suggestions are always welcome! Feel free to open an issue or submit a pull request on the GitHub Repository.
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=6&animation=scaleIn">
 
-## 📄 License
+## <img src="https://api.iconify.design/material-symbols/gavel.svg?color=%236366f1" width="22" valign="middle"> License
 
 This project is open source and available under the Apache 2.0 License.
 
----
-
 <div align="center">
 
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/made%20with%20love.svg?theme=rose&amp;logoColor=red&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/badge/made%20with%20love.svg?theme=rose&amp;logoColor=red&amp;mode=light"></picture>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/made%20with%20love.svg?theme=rose&logoColor=red&mode=dark">
+      <img alt="badge" src="https://shieldcn.dev/badge/made%20with%20love.svg?theme=rose&logoColor=red&mode=light">
+    </picture>
+  </p>
+
+  <br />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&animation=twinkle" alt="footer wave" width="100%">
 
 </div>
