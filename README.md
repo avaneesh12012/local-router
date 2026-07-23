@@ -1,5 +1,8 @@
 **Local Router**
-/assets/logo.svg
+<p align="center">
+  <img src="assets/logo.svg" alt="Project Logo" width="200">
+</p>
+
 \
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/avaneesh12012/local-router.svg?variant=ghost&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/stars/avaneesh12012/local-router.svg?variant=ghost&amp;size=sm&amp;mode=light"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/branches/avaneesh12012/local-router.svg?variant=ghost&amp;size=sm&amp;mode=dark"><img alt="Branches" src="https://www.shieldcn.dev/github/branches/avaneesh12012/local-router.svg?variant=ghost&amp;size=sm&amp;mode=light"></picture>
