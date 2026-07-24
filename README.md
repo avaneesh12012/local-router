@@ -139,6 +139,62 @@ Paste your OpenRouter API Key and start chatting instantly!
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=6&animation=blink">
 
+## <img src="https://api.iconify.design/material-symbols/imagesmode-outline.svg?color=%236366f1" width="22" valign="middle"> Screenshots
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&pause=900&color=A5A6F6&center=false&vCenter=true&width=400&height=20&lines=See+Local+Router+in+action" alt="Typing SVG">
+
+<br />
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="assets/screenshot1.png" alt="Welcome screen" width="100%">
+    </td>
+    <td width="50%">
+      <img src="assets/screenshot2.png" alt="Code generation with syntax highlighting" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Welcome Screen</b></sub></td>
+    <td align="center"><sub><b>Code Blocks & Syntax Highlighting</b></sub></td>
+  </tr>
+</table>
+
+**<img src="https://api.iconify.design/material-symbols/rocket-launch-outline.svg?color=%236366f1" width="16" valign="middle"> Welcome Screen** — The empty state greets you with *"What are we building today?"* along with quick-start prompt suggestions. The sidebar shows key spend (`$0.16`), no chat history until you begin, and a **Free Tier** badge next to the active **Free Models Router** so you always know which tier your key is on.
+
+**<img src="https://api.iconify.design/material-symbols/code.svg?color=%236366f1" width="16" valign="middle"> Code Blocks & Syntax Highlighting** — Asking for code (e.g. a C++ "Hello, World!" example) returns a dark, color-coded code panel with a language label, plus **Copy** and **Save** buttons. The explanation below uses inline code formatting and bullet points, all rendered from Markdown in real time.
+
+<br />
+
+<img src="assets/screenshot3.png" alt="LaTeX math rendering" width="100%">
+
+<p align="center"><sub><b>LaTeX & Mathematical Formula Rendering</b></sub></p>
+
+**<img src="https://api.iconify.design/material-symbols/calculate-outline.svg?color=%236366f1" width="16" valign="middle"> LaTeX Rendering** — Mathematical responses (like the Power Rule for Integration) render as properly typeset equations, both inline and as centered display blocks, instead of raw LaTeX syntax — making proofs, formulas, and step-by-step solutions easy to read.
+
+<br />
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="assets/screenshot4.png" alt="Image upload and vision support" width="100%">
+    </td>
+    <td width="50%">
+      <img src="assets/screenshot5.png" alt="Free model selector dropdown" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Image Uploads & Vision Support</b></sub></td>
+    <td align="center"><sub><b>Model Selector</b></sub></td>
+  </tr>
+</table>
+
+**<img src="https://api.iconify.design/material-symbols/image-outline.svg?color=%236366f1" width="16" valign="middle"> Image Uploads & Vision Support** — Attach an image directly in the message box and ask a vision-capable model to describe it. The uploaded image appears inline in the chat, and the AI's response is added below it — all handled through the paperclip attachment icon in the input bar.
+
+**<img src="https://api.iconify.design/material-symbols/list-alt-outline.svg?color=%236366f1" width="16" valign="middle"> Model Selector** — Click the model dropdown at the top to instantly switch between every free and paid model exposed by your OpenRouter key (Cohere, Google Gemma, NVIDIA Nemotron, OpenAI gpt-oss, Poolside, and more), with the currently active model highlighted.
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=6&animation=twinkle">
+
 ## <img src="https://api.iconify.design/material-symbols/target.svg?color=%236366f1" width="22" valign="middle"> Modes of Operation
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&pause=900&color=A5A6F6&center=false&vCenter=true&width=400&height=20&lines=Works+wherever+you+need+it" alt="Typing SVG">
