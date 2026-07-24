@@ -8,9 +8,16 @@
 
   <br /><br />
 
-  <!-- In development badge (icon + typing text, aligned side by side) -->
+  <!-- Status badges (icon + typing text, aligned side by side) -->
   <p align="center">
     <img src="https://api.iconify.design/material-symbols/construction.svg?color=%236366f1" width="16" height="16" align="absmiddle" style="vertical-align:middle;">&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&pause=800&color=A5A6F6&center=false&vCenter=true&width=150&height=18&lines=in+development" alt="Typing SVG" align="absmiddle" style="vertical-align:middle;">
+    &nbsp;&nbsp;
+    <img src="https://api.iconify.design/material-symbols/science-outline.svg?color=%236366f1" width="16" height="16" align="absmiddle" style="vertical-align:middle;">&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&pause=800&color=A5A6F6&center=false&vCenter=true&width=210&height=18&lines=beta+0.1+released" alt="Typing SVG" align="absmiddle" style="vertical-align:middle;">
+  </p>
+
+  <!-- Release link: add href below -->
+  <p align="center">
+    <!-- <a href="">Download beta 0.1</a> -->
   </p>
 
   <br />
