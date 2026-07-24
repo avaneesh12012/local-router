@@ -17,7 +17,7 @@
 
   <!-- Logo -->
 
-  <img src="assets/logo.svg" alt="Project Logo" width="180">
+  <img src="assets/logo.png" alt="Project Logo" width="180">
 
 <br /><br />
 
