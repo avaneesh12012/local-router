@@ -145,22 +145,17 @@ Paste your OpenRouter API Key and start chatting instantly!
 
 <br />
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="assets/screenshot1.png" alt="Welcome screen" width="100%">
-    </td>
-    <td width="50%">
-      <img src="assets/screenshot2.png" alt="Code generation with syntax highlighting" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><sub><b>Welcome Screen</b></sub></td>
-    <td align="center"><sub><b>Code Blocks & Syntax Highlighting</b></sub></td>
-  </tr>
-</table>
+<img src="assets/screenshot1.png" alt="Welcome screen" width="100%">
+
+<p align="center"><sub><b>Welcome Screen</b></sub></p>
 
 **<img src="https://api.iconify.design/material-symbols/rocket-launch-outline.svg?color=%236366f1" width="16" valign="middle"> Welcome Screen** — The empty state greets you with *"What are we building today?"* along with quick-start prompt suggestions. The sidebar shows key spend (`$0.16`), no chat history until you begin, and a **Free Tier** badge next to the active **Free Models Router** so you always know which tier your key is on.
+
+<br />
+
+<img src="assets/screenshot2.png" alt="Code generation with syntax highlighting" width="100%">
+
+<p align="center"><sub><b>Code Blocks & Syntax Highlighting</b></sub></p>
 
 **<img src="https://api.iconify.design/material-symbols/code.svg?color=%236366f1" width="16" valign="middle"> Code Blocks & Syntax Highlighting** — Asking for code (e.g. a C++ "Hello, World!" example) returns a dark, color-coded code panel with a language label, plus **Copy** and **Save** buttons. The explanation below uses inline code formatting and bullet points, all rendered from Markdown in real time.
 
@@ -174,22 +169,17 @@ Paste your OpenRouter API Key and start chatting instantly!
 
 <br />
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="assets/screenshot4.png" alt="Image upload and vision support" width="100%">
-    </td>
-    <td width="50%">
-      <img src="assets/screenshot5.png" alt="Free model selector dropdown" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><sub><b>Image Uploads & Vision Support</b></sub></td>
-    <td align="center"><sub><b>Model Selector</b></sub></td>
-  </tr>
-</table>
+<img src="assets/screenshot4.png" alt="Image upload and vision support" width="100%">
+
+<p align="center"><sub><b>Image Uploads & Vision Support</b></sub></p>
 
 **<img src="https://api.iconify.design/material-symbols/image-outline.svg?color=%236366f1" width="16" valign="middle"> Image Uploads & Vision Support** — Attach an image directly in the message box and ask a vision-capable model to describe it. The uploaded image appears inline in the chat, and the AI's response is added below it — all handled through the paperclip attachment icon in the input bar.
+
+<br />
+
+<img src="assets/screenshot5.png" alt="Free model selector dropdown" width="100%">
+
+<p align="center"><sub><b>Model Selector</b></sub></p>
 
 **<img src="https://api.iconify.design/material-symbols/list-alt-outline.svg?color=%236366f1" width="16" valign="middle"> Model Selector** — Click the model dropdown at the top to instantly switch between every free and paid model exposed by your OpenRouter key (Cohere, Google Gemma, NVIDIA Nemotron, OpenAI gpt-oss, Poolside, and more), with the currently active model highlighted.
 
