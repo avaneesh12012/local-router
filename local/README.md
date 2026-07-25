@@ -46,7 +46,7 @@ Pick a version, download its `index.html`, and open it in your browser. That's t
 
 | Version | Status | File |
 | :--- | :---: | :--- |
-| <img src="https://api.iconify.design/material-symbols/science-outline.svg?color=%236366f1" width="18" valign="middle"> **Beta** | <img src="https://api.iconify.design/material-symbols/circle.svg?color=%2322c55e" width="12" valign="middle"> Released | [`beta/index.html`](./beta/index.html) |
+| <img src="https://api.iconify.design/material-symbols/science-outline.svg?color=%236366f1" width="18" valign="middle"> **Beta** | <img src="https://api.iconify.design/material-symbols/circle.svg?color=%2322c55e" width="12" valign="middle"> Released | [`beta/beta-0.1.html`](./beta/index.html) |
 | <img src="https://api.iconify.design/material-symbols/verified-outline.svg?color=%236366f1" width="18" valign="middle"> **1.0** | <img src="https://api.iconify.design/material-symbols/circle.svg?color=%23eab308" width="12" valign="middle"> Not yet released | `1.0/index.html` |
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=6&animation=fadeIn">
