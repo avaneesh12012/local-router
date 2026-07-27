@@ -34,7 +34,7 @@ limitations under the License.
 
 ## <img src="https://api.iconify.design/material-symbols/folder-zip-outline.svg?color=%236366f1" width="22" valign="middle"> About This Folder
 
-Here you'll find the **single-file `index.html`** for every released build of Local Router — **beta**, **1.0**, and beyond — each one ready to run **locally**, with **no install and no build step**.
+Here you'll find the **single-file `index.html/beta-release.version.html (beta-0.1.html)`** for every released build of Local Router — **beta**, **1.0**, and beyond — each one ready to run **locally**, with **no install and no build step**.
 
 Pick a version, download its `index.html`, and open it in your browser. That's the whole setup.
 
