@@ -53,11 +53,11 @@ Pick a version, download its `index.html`, and open it in your browser. That's t
 
 ## <img src="https://api.iconify.design/material-symbols/bolt.svg?color=%236366f1" width="22" valign="middle"> How to Use
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=A5A6F6&center=true&vCenter=true&width=500&lines=%24+open+index.html" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=A5A6F6&center=true&vCenter=true&width=500&lines=%24+open+.html" alt="Typing SVG">
 
 1. Pick the version you want from the table above.
-2. Download that version's `index.html`.
-3. Double-click it to open in any browser (Chrome, Edge, Firefox, Brave, Safari).
+2. Download that version's `html` file.
+3. Double-click it to open in any browser (Chrome, Edge, Firefox, Brave, Safari, Zen).
 4. Paste your OpenRouter API key and start chatting — everything stays on your device.
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=6&animation=blink">
@@ -65,7 +65,7 @@ Pick a version, download its `index.html`, and open it in your browser. That's t
 ## <img src="https://api.iconify.design/material-symbols/info-outline.svg?color=%236366f1" width="22" valign="middle"> Notes
 
 - Only **Beta** is currently released — **1.0** is on the way.
-- Every version is a single, self-contained `index.html`; nothing else to install.
+- Every version is a single, self-contained `.html`; nothing else to install.
 - Chats, keys, and settings are stored locally per file/origin — see the [main README](../README.md) for details.
 
 <div align="center">
