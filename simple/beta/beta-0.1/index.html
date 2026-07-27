@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>v0.1 Beta | Local Router Documentation</title>
+    <link rel="icon" type="image/png" href="../../assets/simple/favicon.png">
+    <style>
+        /* 2010 Documentation Portal Theme */
+        :root {
+            --navy: #003366;
+            --light-blue: #e9eef3;
+            --border: #abbecf;
+            --link: #0044cc;
+        }
+
+        body {
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+            background-color: var(--light-blue);
+            color: #333;
+            margin: 0;
+            padding: 0;
+            font-size: 13px;
+            line-height: 1.6;
+        }
+
+        /* Top Navigation Strip */
+        .top-nav {
+            background: var(--navy);
+            color: white;
+            padding: 8px 20px;
+            font-size: 11px;
+            font-weight: bold;
+            border-bottom: 2px solid #001a33;
+        }
+
+        /* Main Container */
+        .main-wrapper {
+            max-width: 800px;
+            margin: 30px auto;
+            background: #ffffff;
+            border: 1px solid var(--border);
+            box-shadow: 3px 3px 0px rgba(0,0,0,0.05);
+        }
+
+        .content-padding {
+            padding: 40px;
+        }
+
+        /* Tags */
+        .status-header {
+            margin-bottom: 20px;
+        }
+        .tag {
+            display: inline-block;
+            padding: 3px 8px;
+            font-size: 10px;
+            font-weight: bold;
+            color: #fff;
+            border-radius: 2px;
+            margin-right: 5px;
+            text-transform: uppercase;
+        }
+        .tag-black { background: #000; }
+        .tag-blue { background: #007aff; }
+
+        /* Typography */
+        header {
+            border-bottom: 2px solid var(--navy);
+            margin-bottom: 30px;
+            padding-bottom: 10px;
+        }
+        .author-text { font-size: 11px; color: #666; margin-bottom: 4px; }
+        h1 { margin: 0; color: var(--navy); font-size: 30px; }
+        h2 { 
+            font-size: 16px; 
+            background: #f0f4f7; 
+            padding: 8px 12px; 
+            border-left: 4px solid var(--navy);
+            margin: 35px 0 15px 0;
+        }
+
+        /* Description Box */
+        .description-box {
+            background: #f9f9f9;
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin-bottom: 25px;
+        }
+        code { font-family: "Courier New", monospace; background: #eee; padding: 1px 3px; border: 1px solid #ccc; }
+
+        /* Roadmap Table */
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        .data-table th, .data-table td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        .data-table th { background: #f2f2f2; font-size: 12px; width: 30%; }
+        .status-green { color: #008000; font-weight: bold; }
+        .warning-note { color: #b30000; font-size: 11px; font-weight: bold; display: block; margin-top: 5px; }
+
+        /* Links List */
+        .link-list {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        .link-list li { margin-bottom: 8px; }
+        .link-list a { color: var(--link); font-weight: bold; text-decoration: underline; }
+        .link-list a:hover { color: #ff0000; }
+
+        /* Resource Grid */
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+        .grid-item {
+            border: 1px solid #e0e0e0;
+            padding: 12px;
+            text-decoration: none;
+            color: var(--link);
+            background: #fff;
+        }
+        .grid-item:hover { background: #f6f9fc; border-color: var(--border); }
+        .grid-item strong { display: block; font-size: 13px; margin-bottom: 2px; }
+        .grid-item span { font-size: 11px; color: #666; }
+
+        /* Footer */
+        footer {
+            background: #f4f4f4;
+            padding: 20px 40px;
+            border-top: 1px solid #ddd;
+            font-size: 11px;
+            color: #555;
+            text-align: center;
+        }
+
+        /* Mobile */
+        @media (max-width: 600px) {
+            .main-wrapper { margin: 0; border: none; }
+            .content-padding { padding: 20px; }
+            .grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="top-nav">
+        LOCAL ROUTER PROJECT PORTAL &nbsp; | &nbsp; RELEASE v0.1-BETA
+    </div>
+
+    <div class="main-wrapper">
+        <div class="content-padding">
+            
+            <div class="status-header">
+                <span class="tag tag-black">Released under Beta Tag</span>
+                <span class="tag tag-blue">V0.1</span>
+            </div>
+
+            <header>
+                <div class="author-text">Developed by avaneesh12012</div>
+                <h1>Local Router Documentation</h1>
+            </header>
+
+            <div class="description-box">
+                <p>
+                    <strong>Local Router</strong> is a zero-configuration, browser-based chat client designed for the <strong>OpenRouter API</strong>. It removes the need for backend infrastructure by managing API keys and history locally via <code>localStorage</code>.
+                </p>
+                <p>
+                    Includes native support for Markdown, LaTeX, and Syntax Highlighting. Features tools to track usage costs and supports vision models.
+                </p>
+            </div>
+
+            <h2>Development Roadmap</h2>
+            <table class="data-table">
+                <tr>
+                    <th>Currently Available</th>
+                    <td>
+                        <span class="status-green">AVAILABLE</span><br>
+                        Simple UI &bull; Normal KaTeX &bull; Syntax Highlighting
+                    </td>
+                </tr>
+                <tr>
+                    <th>Coming Soon</th>
+                    <td>
+                        Polished UI &bull; Improved Free/Paid Tier &bull; LaTeX Fixes
+                    </td>
+                </tr>
+                <tr>
+                    <th>1.0 Releases</th>
+                    <td>
+                        Website &bull; Mobile App &bull; Desktop App
+                        <span class="warning-note">Note: macOS and iOS apps are not planned.</span>
+                    </td>
+                </tr>
+            </table>
+
+            <h2>Table of Contents</h2>
+            <ul class="link-list">
+                <li><a href="introduction.html">Introduction</a></li>
+                <li><a href="how-it-works.html">How it works</a></li>
+                <li><a href="safety.html">Safety Protocols</a></li>
+                <li><a href="features-in-this-version.html">Features in this version</a></li>
+                <li><a href="latex-issues.html">LaTeX Issues</a></li>
+                <li><a href="demo.html" style="color:#333;">Visual Gallery Demo (Internal)</a></li>
+            </ul>
+
+            <h2>Project Resources</h2>
+            <div class="grid">
+                <a href="https://github.com/avaneesh12012/local-router" class="grid-item">
+                    <strong>Main Repository</strong>
+                    <span>Source code on GitHub</span>
+                </a>
+                <a href="https://github.com/avaneesh12012/local-router/tree/main/local/beta/beta-0.1.html" class="grid-item">
+                    <strong>Main HTML</strong>
+                    <span>Direct Beta file access</span>
+                </a>
+                <a href="https://github.com/avaneesh12012/local-router/edit/main/README.md" class="grid-item">
+                    <strong>README</strong>
+                    <span>Documentation & Setup</span>
+                </a>
+                <a href="https://github.com/avaneesh12012/local-router/tree/main/local/README.md" class="grid-item">
+                    <strong>Assistance</strong>
+                    <span>Help and Troubleshooting</span>
+                </a>
+                <a href="https://github.com/avaneesh12012/local-router/releases/tag/beta" class="grid-item">
+                    <strong>Beta Tag</strong>
+                    <span>Version release tracking</span>
+                </a>
+                <a href="https://github.com/avaneesh12012/local-router/blob/main/LICENSE" class="grid-item" style="background: #fff9e6; border-color: #ffe082;">
+                    <strong>Apache License 2.0</strong>
+                    <span>Open Source Usage Rights</span>
+                </a>
+            </div>
+        </div>
+
+        <footer>
+            <p>Built for Privacy &bull; Documentation Page</p>
+            <p><strong>Avaneesh Shahi &copy; 2026</strong></p>
+        </footer>
+    </div>
+
+</body>
+</html>

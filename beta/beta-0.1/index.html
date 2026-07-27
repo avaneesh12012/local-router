@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>v0.1 Beta | Local Router Docs</title>
+    <!-- CSS Link -->
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="../../assets/main/favicon.png">
+    <!-- Lucide Icons Library -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+</head>
+<body class="fade-in">
+
+    <!-- Speed Popup -->
+    <div id="speed-toast" class="toast-notification">
+        <div class="toast-content">
+            A simple and more fast version of this docs is available on <a href="https://avaneesh12012.github.io/local-router/simple">local-router/simple</a>
+        </div>
+        <button class="toast-close" onclick="closeToast()">
+            <i data-lucide="x" size="16"></i>
+        </button>
+    </div>
+
+    <main class="container">
+        <!-- Cloth Tags -->
+        <div class="tag-header">
+            <div class="pill-tag black-tag">
+                <span class="eyelet"></span>
+                RELEASED UNDER BETA TAG
+            </div>
+            <div class="pill-tag blue-tag">
+                <span class="eyelet"></span>
+                V0.1
+            </div>
+        </div>
+
+        <header class="hero">
+            <div class="author">developed by avaneesh12012</div>
+            <h1>Local Router</h1>
+            
+            <div class="overview-card">
+                <p>
+                    <strong>Local Router</strong> is a zero-configuration, browser-based chat client designed for the <strong>OpenRouter API</strong>. It removes the need for backend infrastructure by managing API keys and history locally via <code>localStorage</code>.
+                </p>
+                <p>
+                    The interface includes native support for <strong>Markdown, LaTeX, and Syntax Highlighting</strong>. It features tools to track usage costs, customize behavior via system prompts, and supports vision models.
+                </p>
+            </div>
+        </header>
+
+        <!-- Development Roadmap -->
+        <section class="section">
+            <h2 class="section-label">Development Roadmap</h2>
+            <div class="road-path-container">
+                <svg class="road-svg" viewBox="0 0 100 500" preserveAspectRatio="none">
+                    <path d="M50,0 C120,100 -20,200 50,300 C120,400 -20,450 50,500" class="road-stroke-bg"/>
+                    <path d="M50,0 C120,100 -20,200 50,300 C120,400 -20,450 50,500" class="road-stroke-main"/>
+                </svg>
+
+                <div class="node n1">
+                    <div class="node-dot active"></div>
+                    <div class="node-box">
+                        <strong>Currently Available</strong>
+                        <p>Simple UI • Normal KaTeX • Syntax Highlighting</p>
+                    </div>
+                </div>
+
+                <div class="node n2">
+                    <div class="node-dot"></div>
+                    <div class="node-box">
+                        <strong>Coming Soon</strong>
+                        <p>Polished UI • Improved Free/Paid Tier • LaTeX Fixes</p>
+                    </div>
+                </div>
+
+                <div class="node n3">
+                    <div class="node-dot"></div>
+                    <div class="node-box">
+                        <strong>1.0 Releases</strong>
+                        <p>Website • Mobile App • Desktop App</p>
+                        <span class="warning-text">Warning: macOS and iOS apps are not planned.</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Table of Contents -->
+        <section class="section">
+            <h2 class="section-label">Table of Content</h2>
+            <nav class="toc-container">
+                <a href="introduction.html" class="toc-item">
+                    <div class="icon-stack">
+                        <i data-lucide="book-open" class="base-icon"></i>
+                        <i data-lucide="arrow-right" class="hover-icon"></i>
+                    </div>
+                    <span>Introduction</span>
+                </a>
+                <a href="how-it-works.html" class="toc-item">
+                    <div class="icon-stack">
+                        <i data-lucide="cpu" class="base-icon"></i>
+                        <i data-lucide="arrow-right" class="hover-icon"></i>
+                    </div>
+                    <span>How it works</span>
+                </a>
+                <a href="safety.html" class="toc-item">
+                    <div class="icon-stack">
+                        <i data-lucide="shield-check" class="base-icon"></i>
+                        <i data-lucide="arrow-right" class="hover-icon"></i>
+                    </div>
+                    <span>Safety Protocols</span>
+                </a>
+                <a href="features-in-this-version.html" class="toc-item">
+                    <div class="icon-stack">
+                        <i data-lucide="list" class="base-icon"></i>
+                        <i data-lucide="arrow-right" class="hover-icon"></i>
+                    </div>
+                    <span>Features in this version</span>
+                </a>
+                <a href="latex-issues.html" class="toc-item">
+                    <div class="icon-stack">
+                        <i data-lucide="alert-circle" class="base-icon"></i>
+                        <i data-lucide="arrow-right" class="hover-icon"></i>
+                    </div>
+                    <span>LaTeX Issues</span>
+                </a>
+                <!-- Dark Button: Stays Dark on Hover -->
+                <a href="demo.html" class="toc-item dark-btn">
+                    <div class="icon-stack">
+                        <i data-lucide="image" class="base-icon"></i>
+                        <i data-lucide="arrow-right" class="hover-icon"></i>
+                    </div>
+                    <span>Visual Gallery Demo</span>
+                </a>
+            </nav>
+        </section>
+
+        <!-- Project Links -->
+        <section class="section">
+            <h2 class="section-label">Project Resources</h2>
+            <div class="resource-grid">
+                <a href="https://github.com/avaneesh12012/local-router" class="res-card">
+                    <svg fill="currentColor" viewBox="0 0 24 24" width="18"><path d="M3 2.75A2.75 2.75 0 015.75 0h14.5a.75.75 0 01.75.75v20.5a.75.75 0 01-.75.75h-6a.75.75 0 010-1.5h5.25v-4H6A1.5 1.5 0 004.5 18v.75c0 .716.43 1.334 1.05 1.605a.75.75 0 01-.6 1.374A3.25 3.25 0 013 18.75v-16zM19.5 1.5V15H6c-.546 0-1.059.146-1.5.401V2.75c0-.69.56-1.25 1.25-1.25H19.5z"></path><path d="M7 18.25a.25.25 0 01.25-.25h5a.25.25 0 01.25.25v5.01a.25.25 0 01-.397.201l-2.206-1.604a.25.25 0 00-.294 0L7.397 23.46a.25.25 0 01-.397-.2v-5.01z"></path></svg>
+                    <strong>Main Repo</strong>
+                </a>
+                <a href="https://github.com/avaneesh12012/local-router/tree/main/local/beta/beta-0.1.html" class="res-card highlight">
+                    <i data-lucide="file-code"></i><strong>Main HTML</strong>
+                </a>
+                <a href="https://github.com/avaneesh12012/local-router/edit/main/README.md" class="res-card">
+                    <i data-lucide="edit-3"></i><strong>README</strong>
+                </a>
+                <a href="https://github.com/avaneesh12012/local-router/tree/main/local/README.md" class="res-card">
+                    <i data-lucide="help-circle"></i><strong>Assistance</strong>
+                </a>
+                <a href="https://github.com/avaneesh12012/local-router/releases/tag/beta" class="res-card">
+                    <i data-lucide="tag"></i><strong>Beta Tag</strong>
+                </a>
+                <a href="https://github.com/avaneesh12012/local-router/blob/main/LICENSE" class="res-card">
+                    <i data-lucide="scroll"></i><strong>License</strong>
+                </a>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <p>Built for Privacy • Website in development</p>
+            <p class="copy">Avaneesh Shahi © 2026</p>
+        </footer>
+    </main>
+
+    <!-- Script Link -->
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Versions | Local Router</title>
+    <link rel="icon" type="image/png" href="../assets/simple/favicon.png">
+    <style>
+        /* 2010 Professional Palette */
+        :root {
+            --header-bg: #003366;      /* Navy Blue */
+            --page-bg: #e9eef3;        /* Light Gray-Blue */
+            --container-bg: #ffffff;   /* Pure White */
+            --border-color: #abbecf;   /* Muted Blue Border */
+            --link-color: #0044cc;     /* Standard Web Blue */
+            --tag-bg: #e1f0ff;         /* Light Sky Blue */
+            --tag-text: #003366;
+        }
+
+        body {
+            font-family: Verdana, Geneva, sans-serif;
+            background-color: var(--page-bg);
+            margin: 0;
+            padding: 0;
+            color: #333;
+            line-height: 1.5;
+        }
+
+        /* Top Navigation Strip */
+        .top-nav {
+            background-color: var(--header-bg);
+            color: white;
+            padding: 12px 20px;
+            font-size: 12px;
+            border-bottom: 1px solid #001f40;
+        }
+
+        .top-nav a {
+            color: #ffffff;
+            text-decoration: underline;
+            font-weight: bold;
+        }
+
+        /* Main Content Area */
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: var(--container-bg);
+            border: 1px solid var(--border-color);
+            padding: 40px;
+            box-shadow: 2px 2px 0px rgba(0,0,0,0.05);
+        }
+
+        header {
+            margin-bottom: 30px;
+            border-bottom: 2px solid var(--header-bg);
+            padding-bottom: 15px;
+        }
+
+        .author-info {
+            font-size: 11px;
+            color: #777;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 0.5px;
+        }
+
+        h1 {
+            margin: 5px 0 0 0;
+            color: var(--header-bg);
+            font-size: 28px;
+        }
+
+        /* List Styling */
+        .version-list {
+            margin: 20px 0;
+        }
+
+        .list-header {
+            background: #f0f4f7;
+            padding: 10px 15px;
+            font-size: 13px;
+            font-weight: bold;
+            border: 1px solid #d1d9e0;
+            color: #444;
+        }
+
+        .version-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px;
+            border-bottom: 1px solid #eeeeee;
+            border-left: 1px solid #d1d9e0;
+            border-right: 1px solid #d1d9e0;
+        }
+
+        .version-row:last-child {
+            border-bottom: 1px solid #d1d9e0;
+        }
+
+        .version-row:hover {
+            background-color: #f6f9fc;
+        }
+
+        .version-link {
+            font-weight: bold;
+            font-size: 15px;
+            color: var(--link-color);
+            text-decoration: underline;
+        }
+
+        .version-link:hover {
+            color: #ff0000;
+        }
+
+        .status-tag {
+            background-color: var(--tag-bg);
+            color: var(--tag-text);
+            border: 1px solid #bcd5ed;
+            padding: 2px 10px;
+            font-size: 11px;
+            font-weight: bold;
+            border-radius: 2px;
+        }
+
+        /* Footer */
+        footer {
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            font-size: 12px;
+            color: #666;
+        }
+
+        .footer-link {
+            color: var(--link-color);
+            text-decoration: underline;
+        }
+
+        /* Responsive Fixes */
+        @media (max-width: 600px) {
+            .container {
+                margin: 0;
+                border: none;
+                padding: 25px 15px;
+            }
+            h1 { font-size: 24px; }
+            .top-nav { text-align: center; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="top-nav">
+        Local Router Project Site &nbsp;|&nbsp; 
+        <a href="https://github.com/avaneesh12012/local-router">View Source on GitHub</a>
+    </div>
+
+    <div class="container">
+        <header>
+            <div class="author-info">Developed by avaneesh12012</div>
+            <h1>Version History</h1>
+        </header>
+
+        <div class="version-list">
+            <div class="list-header">Build Name</div>
+            
+            <div class="version-row">
+                <a href="beta/beta-0.1/index.html" class="version-link">beta-0.1</a>
+                <span class="status-tag">BETA</span>
+            </div>
+        </div>
+
+        <footer>
+            <p>Built for Privacy &bull; Local-First Router Documentation</p>
+            <p>&copy; 2026 Avaneesh Shahi. All rights reserved.</p>
+        </footer>
+    </div>
+
+</body>
+</html>
