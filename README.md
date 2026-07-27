@@ -93,7 +93,7 @@ Since **OpenRouter** provides a free API key with the easiest and best setup, it
 
 ## <img src="https://api.iconify.design/material-symbols/bolt.svg?color=%236366f1" width="22" valign="middle"> Quick Start
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=A5A6F6&center=true&vCenter=true&width=500&lines=%24+open+index.html" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=A5A6F6&center=true&vCenter=true&width=500&lines=%24+open+beta-0.1.html" alt="Typing SVG">
 
 ### <img src="https://api.iconify.design/material-symbols/rocket-launch-outline.svg?color=%236366f1" width="18" valign="middle"> Option 2: Direct Run
 
