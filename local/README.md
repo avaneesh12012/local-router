@@ -19,7 +19,7 @@ limitations under the License.
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=560&lines=Grab+the+index.html+for+any+version;No+build+step+%E2%80%94+just+download+and+open;Beta+and+stable+builds+live+here" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=560&lines=Grab+the+beta-0.1.html+for+any+version;No+build+step+%E2%80%94+just+download+and+open;Beta+and+stable+builds+live+here" alt="Typing SVG">
 
   <br /><br />
 
