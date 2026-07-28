@@ -70,7 +70,13 @@ limitations under the License.
       <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/license/avaneesh12012/local-router.svg?variant=ghost&size=sm&mode=dark&v=1.0">
       <img alt="License" src="https://www.shieldcn.dev/github/license/avaneesh12012/local-router.svg?variant=ghost&size=sm&mode=light&v=1.0">
     </picture>
+    <a href="https://avaneesh12012.github.io/local-router">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/docs-website-6366F1.svg?variant=ghost&size=sm&mode=dark&v=1.0">
+    <img alt="Docs" src="https://www.shieldcn.dev/badge/docs-website-6366F1.svg?variant=ghost&size=sm&mode=light&v=1.0">
+  </picture>
     <img src="https://api.iconify.design/line-md/github-loop.svg?color=%236366f1" width="20" height="20" style="vertical-align:middle;margin-left:6px;">
+</a>
   </p>
 
   <br />
