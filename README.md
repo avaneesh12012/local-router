@@ -31,6 +31,12 @@ limitations under the License.
 <a href="https://github.com/avaneesh12012/local-router/blob/main/LICENSE">
   <img src="https://shieldcn.dev/badge/license-apache_2.0.svg?color=34c759" alt="License" />
 </a>
+<a href="https://avaneesh12012.github.io/local-router">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/docs-website-6366F1.svg?variant=ghost&size=sm&mode=dark&v=1.0">
+    <img alt="Docs" src="https://www.shieldcn.dev/badge/docs-website-6366F1.svg?variant=ghost&size=sm&mode=light&v=1.0">
+  </picture>
+</a>
 
 <br><br>
 
