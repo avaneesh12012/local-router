@@ -103,8 +103,8 @@ Since **OpenRouter** provides a free API key with the easiest and best setup, it
 
 ### <img src="https://api.iconify.design/material-symbols/rocket-launch-outline.svg?color=%236366f1" width="18" valign="middle"> Option 2: Direct Run
 
-Download or save the index.html file.
-Double-click index.html to open it in any web browser (Chrome, Edge, Firefox, Brave, Safari).
+Download or save the html file.
+Double-click the html to open it in any web browser (Chrome, Edge, Firefox, Brave, Safari).
 Paste your OpenRouter API Key and start chatting instantly!
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=6&animation=fadeIn">
